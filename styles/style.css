@@ -194,3 +194,26 @@ main {
 .subscribe{
     position: relative;
 }
+.footer{
+    background-color: black;
+   
+}
+.footer h2{
+    color: orangered;
+    font-style: italic;
+    padding: 10px;
+    
+
+}
+.footer .photo{
+    color: #fff;
+    font-style: normal;
+    padding: 10px;
+
+
+}
+.f-contain{
+    text-align: center;
+    padding: 40px;
+}
+
