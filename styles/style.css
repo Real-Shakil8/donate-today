@@ -194,8 +194,10 @@ main {
 .subscribe{
     position: relative;
 }
+/* footer */
 .footer{
     background-color: black;
+    margin-top: 5rem;
    
 }
 .footer h2{
