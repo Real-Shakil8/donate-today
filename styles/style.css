@@ -165,6 +165,7 @@ main {
     height: 430px;
     border-radius: 5px;
 }
+
 /* my updaate */
 .my-update {
     display: flex;
@@ -172,11 +173,13 @@ main {
     /* justify-content: center; */
     align-items: center;
 }
+
 .news-latter {
     background-color: #ffeb0059;
     padding: 50px 201px;
     /* position: relative; */
 }
+
 .news-latter [type="email"] {
     width: 100%;
     /* position: relative; */
@@ -186,36 +189,41 @@ main {
     border-radius: 5px;
     border-style: none;
 }
-.news-latter .subscribe> button {
+
+.news-latter .subscribe>button {
     padding: 9px 25px;
     position: absolute;
     right: 0;
 }
-.subscribe{
+
+.subscribe {
     position: relative;
 }
+
 /* footer */
-.footer{
+.footer {
     background-color: black;
     margin-top: 5rem;
-   
+
 }
-.footer h2{
+
+.footer h2 {
     color: orangered;
     font-style: italic;
     padding: 10px;
-    
+
 
 }
-.footer .photo{
+
+.footer .photo {
     color: #fff;
     font-style: normal;
     padding: 10px;
 
 
 }
-.f-contain{
+
+.f-contain {
     text-align: center;
     padding: 40px;
 }
-
